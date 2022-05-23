@@ -1,0 +1,23 @@
+img {
+    width: 20rem;
+}
+body{
+    background-color: #CCFFCC;
+}
+h1 {
+	position: relative;
+	text-align: center;
+	font-family: fantasy;
+}
+h2 {
+	position: relative;
+	text-align: center;
+	font-family: monospace;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    display: block;
+}
